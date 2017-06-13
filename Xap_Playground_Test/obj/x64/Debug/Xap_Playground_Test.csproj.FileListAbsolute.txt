@@ -1,0 +1,9 @@
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\bin\x64\Debug\Xap_Playground_Test.dll
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\bin\x64\Debug\Xap_Playground_Test.pdb
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\bin\x64\Debug\GigaSpaces.Core.dll
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\bin\x64\Debug\nunit.framework.dll
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\bin\x64\Debug\GigaSpaces.NetToJava.dll
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\bin\x64\Debug\GigaSpaces.Core.xml
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\bin\x64\Debug\nunit.framework.xml
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\obj\x64\Debug\Xap_Playground_Test.dll
+C:\Users\Mewald-PC\documents\visual studio 2017\Projects\Xap_Playground\Xap_Playground_Test\obj\x64\Debug\Xap_Playground_Test.pdb
