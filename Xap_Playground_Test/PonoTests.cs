@@ -26,7 +26,9 @@ namespace Xap_Playground_Test
         public void CreatePonoInSpace()
         {
             Console.WriteLine("Connecting to data grid...");
+
             ISpaceProxy spaceProxy = new SpaceProxyFactory("myDataGrid").Create();
+
 
             Console.WriteLine("Write (store) a couple of entries in the data grid:");
             spaceProxy.Write(new Person { Ssn = 1, FirstName = "Vincent", LastName = "Chase" });

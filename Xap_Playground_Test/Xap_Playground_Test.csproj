@@ -78,14 +78,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PonoTests.cs" />
-    <Compile Include="SpaceDocumentTests.cs" />
+    <Compile Include="SpaceDocuments\Product.cs" />
+    <Compile Include="SpaceDocuments\SpaceDocumentTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="CodeSnippets\SpaceDocument.snippet" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CodeSnippets\ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
